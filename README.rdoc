@@ -1,5 +1,7 @@
 = Remotipart
 
+> fix jquery 1.9 'live' function
+
 Remotipart is a Ruby on Rails gem enabling AJAX file uploads with jQuery in Rails 3.0 and Rails 3.1 remote forms.
 This gem augments the native Rails jQuery remote form functionality enabling asynchronous file uploads with little to no modification to your application.
 
